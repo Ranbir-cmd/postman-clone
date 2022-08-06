@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/postman-clone/static/css/main.073c9b0a.css",
+    "main.js": "/postman-clone/static/js/main.7988369b.js",
+    "static/js/787.de81ef12.chunk.js": "/postman-clone/static/js/787.de81ef12.chunk.js",
+    "index.html": "/postman-clone/index.html",
+    "main.073c9b0a.css.map": "/postman-clone/static/css/main.073c9b0a.css.map",
+    "main.7988369b.js.map": "/postman-clone/static/js/main.7988369b.js.map",
+    "787.de81ef12.chunk.js.map": "/postman-clone/static/js/787.de81ef12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7988369b.js"
+  ]
+}
